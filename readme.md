@@ -3,4 +3,5 @@
 I am trying to learn bootstrap and store this on Github
 
 ## I had success
-I was able to link and upload a file to github.
+
+I was able to link and upload a file to github
